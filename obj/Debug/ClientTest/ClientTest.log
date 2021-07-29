@@ -1,0 +1,32 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ClientTest.cpp
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.h(56,10): error C2039: 'wstring': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\map(25): message : see declaration of 'std'
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.h(56,32): error C3646: 'm_csAttribName': unknown override specifier
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.h(56,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.h(57,10): error C2039: 'wstring': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\map(25): message : see declaration of 'std'
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.h(57,35): error C3646: 'm_csAttribDetails': unknown override specifier
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.h(57,35): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.h(93,10): error C2039: 'wstring': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\map(25): message : see declaration of 'std'
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.h(93,33): error C3646: 'm_csErrorString': unknown override specifier
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.h(93,33): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  CSmartReader.cpp
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.h(56,10): error C2039: 'wstring': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\map(25): message : see declaration of 'std'
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.h(56,32): error C3646: 'm_csAttribName': unknown override specifier
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.h(56,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.h(57,10): error C2039: 'wstring': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\map(25): message : see declaration of 'std'
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.h(57,35): error C3646: 'm_csAttribDetails': unknown override specifier
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.h(57,35): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.h(93,10): error C2039: 'wstring': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\map(25): message : see declaration of 'std'
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.h(93,33): error C3646: 'm_csErrorString': unknown override specifier
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.h(93,33): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.cpp(183,28): error C2039: 'm_csAttribName': is not a member of 'ST_SMART_DETAILS'
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.h(53): message : see declaration of 'ST_SMART_DETAILS'
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.cpp(185,31): error C2039: 'm_csAttribDetails': is not a member of 'ST_SMART_DETAILS'
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\ClientTest\CSmartReader.h(53): message : see declaration of 'ST_SMART_DETAILS'
+  Generating Code...

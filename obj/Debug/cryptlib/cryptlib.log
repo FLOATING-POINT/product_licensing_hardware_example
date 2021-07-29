@@ -1,0 +1,10 @@
+﻿  zdeflate.cpp
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\cryptopp560\algparam.h(277,1): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': function assumed not to throw an exception but does
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\cryptopp560\algparam.h(277,1): message : destructor or deallocator has a (possibly implicit) non-throwing exception specification
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\cryptopp560\zdeflate.cpp(390,13): error C2039: 'unchecked_mismatch': is not a member of 'stdext'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xhash(31): message : see declaration of 'stdext'
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\cryptopp560\zdeflate.cpp(394,5): error C3861: 'unchecked_mismatch': identifier not found
+  zlib.cpp
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\cryptopp560\algparam.h(277,1): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': function assumed not to throw an exception but does
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\cryptopp560\algparam.h(277,1): message : destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  Generating Code...

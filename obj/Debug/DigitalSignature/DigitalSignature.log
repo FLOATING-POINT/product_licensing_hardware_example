@@ -1,0 +1,4 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+LINK : fatal error LNK1104: cannot open file 'E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\lib\Debug\cryptlib.lib'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(847,5): error MSB6006: "link.exe" exited with code 1104.

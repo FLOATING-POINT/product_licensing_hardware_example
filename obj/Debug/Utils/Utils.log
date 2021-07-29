@@ -1,0 +1,5 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  utils.cpp
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\cryptopp560\algparam.h(277,1): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': function assumed not to throw an exception but does
+E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\cryptopp560\algparam.h(277,1): message : destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  Utils.vcxproj -> E:\openframeworks\of_v0.10.1_vs2017_release\apps\myApps\product_licensing_hardware_example\src\..\lib\Debug\Utils.lib
